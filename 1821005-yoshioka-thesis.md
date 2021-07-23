@@ -1,5 +1,5 @@
 # 1821005-yoshioka-thesis
-<h2 align="center">1821086_matsuo_thesis</h2>
+<h2 align="center">1821005_yoshioka_thesis</h2>
 
 
 ### <img src="https://icooon-mono.com/i/icon_16004/icon_160041_64.png" height="30px;" /> 中間発表用スライド
