@@ -13,3 +13,6 @@ https://github.com/kait-takanolab/1821005-yoshioka-thesis/tree/main/Google_Colab
 
 ### <img src="https://icooon-mono.com/i/icon_16004/icon_160041_64.png" height="30px;" /> Jyupiternotebook Program
 https://github.com/kait-takanolab/1821005-yoshioka-thesis/tree/main/jyupiter_program
+
+### <img src="https://icooon-mono.com/i/icon_16004/icon_160041_64.png" height="30px;" /> 作成したモデル
+https://drive.google.com/file/d/1VLnbjsNpi5ChThM_YRU3W1dx1GzegEpu/view?usp=sharing
