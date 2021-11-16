@@ -19,3 +19,6 @@ https://github.com/kait-takanolab/1821005-yoshioka-thesis/tree/main/jyupiter_pro
 
 ### <img src="https://icooon-mono.com/i/icon_16004/icon_160041_64.png" height="30px;" /> 作成したモデル
 https://drive.google.com/file/d/1VLnbjsNpi5ChThM_YRU3W1dx1GzegEpu/view?usp=sharing
+
+### <img src="https://icooon-mono.com/i/icon_16004/icon_160041_64.png" height="30px;" /> 作成した予測ベクトル
+https://drive.google.com/file/d/1-1sCgBpEVWRCbYUA4zr7Cgc3_3mb6APS/view?usp=sharing
