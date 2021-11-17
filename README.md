@@ -37,8 +37,8 @@ https://drive.google.com/file/d/1-PRepNPIgoq0Gm_IBxH7_g3QCy-8WOoY/view?usp=shari
 https://drive.google.com/file/d/1-M_tcsBkpARCtH96U213JfOXHUM6eacY/view?usp=sharing
 
 
-- csvファイルに保存してあるベクトル
-- これは使わないです．中身が見やすいので置いてあります．
+csvファイルに保存してあるベクトル
+これは使わないです．中身が見やすいので置いてあります．
 https://drive.google.com/file/d/1-1sCgBpEVWRCbYUA4zr7Cgc3_3mb6APS/view?usp=sharing
 
 
