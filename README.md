@@ -12,6 +12,8 @@ https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/Google_Colab
 https://github.com/kait-takanolab/1821005-yoshioka-thesis/tree/main/Google_Colaboratory_program
 
 ### <img src="https://icooon-mono.com/i/icon_16004/icon_160041_64.png" height="30px;" /> 作成したモデル
+使用したプログラム
+->https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/Google_Colaboratory_program/cifar10_vector_pickle.ipynb
 
 - alexnet_cifar10_1000_2.h5
 https://drive.google.com/file/d/1VLnbjsNpi5ChThM_YRU3W1dx1GzegEpu/view?usp=sharing
