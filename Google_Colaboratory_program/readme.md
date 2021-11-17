@@ -4,6 +4,9 @@
 
 ## <img src="https://icooon-mono.com/i/icon_16004/icon_160041_64.png" height="30px;" /> プログラム説明
 
+tensorflow.version 2.6.0
+keras.version 2.6.0
+
 ### モデルを作るためのプログラム
 https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/Google_Colaboratory_program/create_model.ipynb
 
