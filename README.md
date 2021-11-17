@@ -22,6 +22,9 @@ https://drive.google.com/file/d/1VLnbjsNpi5ChThM_YRU3W1dx1GzegEpu/view?usp=shari
 https://drive.google.com/file/d/1-L7RcrU6hcoT-c-tsZEqQzl8OSUF3yYf/view?usp=sharing
 
 ### <img src="https://icooon-mono.com/i/icon_16004/icon_160041_64.png" height="30px;" /> 作成した予測ベクトル
+使用したプログラム
+->https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/Google_Colaboratory_program/search_image.ipynb
+
 - 100次元ベクトル(1万件)
 - cifar10_vecs100.pickle
 https://drive.google.com/file/d/1-PRepNPIgoq0Gm_IBxH7_g3QCy-8WOoY/view?usp=sharing
