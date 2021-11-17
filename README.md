@@ -7,6 +7,8 @@ https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/Google_Colab
 
 
 ### <img src="https://icooon-mono.com/i/icon_16004/icon_160041_64.png" height="30px;" /> Colaboratory Program
+- Googlecolaboratoryで作成したプログラム
+
 https://github.com/kait-takanolab/1821005-yoshioka-thesis/tree/main/Google_Colaboratory_program
 
 ### <img src="https://icooon-mono.com/i/icon_16004/icon_160041_64.png" height="30px;" /> 作成したモデル
