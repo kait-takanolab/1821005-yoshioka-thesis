@@ -2,6 +2,7 @@
 <h2 align="center">1821005_yoshioka_thesis</h2>
 
 ### プログラムの説明
+- 下記のreadme.mdに記載してある．
 https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/Google_Colaboratory_program/readme.md
 
 
@@ -14,8 +15,6 @@ https://github.com/kait-takanolab/1821005-yoshioka-thesis/tree/main/%E3%82%BC%E3
 ### <img src="https://icooon-mono.com/i/icon_16004/icon_160041_64.png" height="30px;" /> Colaboratory Program
 https://github.com/kait-takanolab/1821005-yoshioka-thesis/tree/main/Google_Colaboratory_program
 
-- ここのプログラムがうまくいっていない．
-https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/Google_Colaboratory_program/cifar10_vector_csv.ipynb
 
 ### <img src="https://icooon-mono.com/i/icon_16004/icon_160041_64.png" height="30px;" /> Jyupiternotebook Program
 https://github.com/kait-takanolab/1821005-yoshioka-thesis/tree/main/jyupiter_program
