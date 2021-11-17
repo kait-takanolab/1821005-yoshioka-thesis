@@ -14,5 +14,11 @@ https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/Google_Colab
 - モデルは下記に保存先を記載している．
 -> https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/README.md
 
-
+### 画像検索評価システム　プログラム
+https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/Google_Colaboratory_program/search_image.ipynb
+- このプログラムでは，保存しているベクトル情報をロードする必要がある．
+- 現在，保存できているベクトルは，cifar10_vecs100.pickle，cifar10_vecs1000.pickle
+- 上記の二つのファイルは，GoogleDriveに保存してある．
+- 以下に保存先を記載している．
+->https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/README.md
 
