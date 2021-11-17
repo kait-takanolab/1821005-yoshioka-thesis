@@ -28,13 +28,14 @@ https://drive.google.com/file/d/1VLnbjsNpi5ChThM_YRU3W1dx1GzegEpu/view?usp=shari
 https://drive.google.com/file/d/1-L7RcrU6hcoT-c-tsZEqQzl8OSUF3yYf/view?usp=sharing
 
 ### <img src="https://icooon-mono.com/i/icon_16004/icon_160041_64.png" height="30px;" /> 作成した予測ベクトル
-- 100次元ベクトル
+- 100次元ベクトル(1万件)
 - cifar10_vecs100.pickle
 https://drive.google.com/file/d/1-PRepNPIgoq0Gm_IBxH7_g3QCy-8WOoY/view?usp=sharing
 
-- 1000次元ベクトル
+- 1000次元ベクトル(1万件)
 - cifar10_vecs1000.pickle
 https://drive.google.com/file/d/1-M_tcsBkpARCtH96U213JfOXHUM6eacY/view?usp=sharing
+
 
 
 csvファイルに保存してあるベクトル
