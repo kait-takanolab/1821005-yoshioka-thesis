@@ -18,14 +18,21 @@ https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/Google_Colab
 https://github.com/kait-takanolab/1821005-yoshioka-thesis/tree/main/jyupiter_program
 
 ### <img src="https://icooon-mono.com/i/icon_16004/icon_160041_64.png" height="30px;" /> 作成したモデル
+
+- alexnet_cifar10_1000_2.h5
 https://drive.google.com/file/d/1VLnbjsNpi5ChThM_YRU3W1dx1GzegEpu/view?usp=sharing
+
+- alexnet_cifar10_100.h5
+
 
 ### <img src="https://icooon-mono.com/i/icon_16004/icon_160041_64.png" height="30px;" /> 作成した予測ベクトル
 https://drive.google.com/file/d/1-1sCgBpEVWRCbYUA4zr7Cgc3_3mb6APS/view?usp=sharing
 
-100次元ベクトル
+- 100次元ベクトル
+- cifar10_vecs100.pickle
 https://drive.google.com/file/d/1-PRepNPIgoq0Gm_IBxH7_g3QCy-8WOoY/view?usp=sharing
 
-1000次元ベクトル
+- 1000次元ベクトル
+- cifar10_vecs1000.pickle
 https://drive.google.com/file/d/1-M_tcsBkpARCtH96U213JfOXHUM6eacY/view?usp=sharing
 
