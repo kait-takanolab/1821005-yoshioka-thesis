@@ -25,3 +25,9 @@ https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/Google_Colab
 - 以下に保存先を記載している．
 ->https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/README.md
 
+### 練習プログラム
+https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/Google_Colaboratory_program/test_euclidean%20distance.ipynb
+- ユークリッド距離について
+
+https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/Google_Colaboratory_program/test_sort.ipynb
+- ソートについて
