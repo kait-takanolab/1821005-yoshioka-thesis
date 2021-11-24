@@ -2,7 +2,7 @@
 <h2 align="center">1821005_yoshioka_thesis</h2>
 
 ### 卒業論文について
-https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/Google_Colaboratory_program/readme.md
+https://github.com/kait-takanolab/1821005-yoshioka-thesis/tree/main/%E5%8D%92%E8%AB%96
 
 ### プログラムの説明
 - 下記のreadme.mdに記載してある．
