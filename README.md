@@ -2,7 +2,7 @@
 <h2 align="center">1821005_yoshioka_thesis</h2>
 
 ### 卒論発表
-
+https://github.com/kait-takanolab/1821005-yoshioka-thesis/tree/main/%E5%8D%92%E7%A0%94%E7%99%BA%E8%A1%A8
 
 ### 卒業論文について
 https://github.com/kait-takanolab/1821005-yoshioka-thesis/tree/main/%E5%8D%92%E8%AB%96
