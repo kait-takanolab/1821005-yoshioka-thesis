@@ -4,6 +4,9 @@
 ### 卒論発表
 https://github.com/kait-takanolab/1821005-yoshioka-thesis/tree/main/%E5%8D%92%E7%A0%94%E7%99%BA%E8%A1%A8
 
+### 卒論　要旨
+https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/%E5%8D%92%E7%A0%94%E7%99%BA%E8%A1%A8/1821005%E8%AB%96%E6%96%87%E8%A6%81%E6%97%A8.docx
+
 ### 卒業論文について
 https://github.com/kait-takanolab/1821005-yoshioka-thesis/tree/main/%E5%8D%92%E8%AB%96
 
