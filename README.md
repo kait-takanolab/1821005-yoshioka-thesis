@@ -6,7 +6,7 @@ https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/%E5%8D%92%E7
 
 ### 卒論　要旨
 #### word
-https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/%E5%8D%92%E7%A0%94%E7%99%BA%E8%A1%A8/1821005%E8%AB%96%E6%96%87%E8%A6%81%E6%97%A8.docx
+https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/%E5%8D%92%E7%A0%94%E7%99%BA%E8%A1%A8/1821005_yoshioka_yosi.docx
 #### pdf
 https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/%E5%8D%92%E7%A0%94%E7%99%BA%E8%A1%A8/1821005%E8%AB%96%E6%96%87%E8%A6%81%E6%97%A8.pdf
 
