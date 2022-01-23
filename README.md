@@ -2,7 +2,7 @@
 <h2 align="center">1821005_yoshioka_thesis</h2>
 
 ### 卒論発表パワーポイント
-https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/%E5%8D%92%E7%A0%94%E7%99%BA%E8%A1%A8/1821005_0120.pptx
+https://github.com/kait-takanolab/1821005-yoshioka-thesis/blob/main/%E5%8D%92%E7%A0%94%E7%99%BA%E8%A1%A8/1821005_yoshioka_thesis.pptx
 
 ### 卒論　要旨
 #### word
